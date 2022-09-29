@@ -108,6 +108,9 @@ Number of descriptors: 214
 1A2A-3A4-7A2-32A2 10
 1A2-3A4A-7A2-32A2 10
 1A2-3A4-7A2A-32A2 10
+1A2A-3A2-7A4-32A2 10
+1A2-3A2A-7A4-32A2 10
+1A2-3A2-7A4A-32A2 10
 1A2A-3A2-7A2-38A2 8 
 1A2-3A2A-7A2-38A2 8 
 1A2A-3A2-38A2 6 
@@ -158,7 +161,7 @@ Number of descriptors: 214
 1A2-3A4-7A4A-28A2 12 
 1A2-3A4-7A4-28A2A 12 
 
-Number of combos: 152
+Number of combos: 158
 Max streams per combo: 12
 
 
