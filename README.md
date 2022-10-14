@@ -1,4 +1,4 @@
-# Combo-00028874-EM160
+# Combo 00028874 EM160
 Combo per EM160R-GL. 
 
 La release finale testata (manca solo 5ca con la 28) è presente [qui](https://github.com/1alessandro1/Combo-00028874-EM160/releases)
